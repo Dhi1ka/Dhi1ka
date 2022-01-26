@@ -1,4 +1,4 @@
-# vue2-default
+# vue2-dhi1ka
 
 ## Project setup
 ```

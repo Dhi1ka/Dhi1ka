@@ -33,6 +33,7 @@ export default class MyDocument extends Document {
         <Head>
           <title>Dhi1ka</title>
           <meta property="og:title" content="Dhi1ka" key="title" />
+          <link rel="icon" href="/favicon.ico" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
             rel="stylesheet"
